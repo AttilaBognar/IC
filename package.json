@@ -1,0 +1,22 @@
+{
+  "name": "ic",
+  "version": "1.0.0",
+  "description": "internal chatter express package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AttilaBognar/ic.git"
+  },
+  "author": "Attila Bognar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AttilaBognar/ic/issues"
+  },
+  "homepage": "https://github.com/AttilaBognar/ic#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
